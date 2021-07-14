@@ -1,6 +1,4 @@
-           Overview - Engineering Career Framework
-
-#Engineering Career Framework
+# Engineering Career Framework 
 
 What’s a Career Framework?
 --------------------------
